@@ -16,7 +16,7 @@ function Header(){
                 <button>CONTACT ME</button>
             </Col>
 
-            <Col lg = {4} md = {4} sm = {12} className="headerMiddle">
+            <Col lg = {3} md = {4} sm = {12} className="headerMiddle">
                 <img src = "https://w0.peakpx.com/wallpaper/650/789/HD-wallpaper-developer-walpaper-black-coding-developer-developing-programmer-programming-simple-technology-white.jpg"></img>
             </Col>
 
