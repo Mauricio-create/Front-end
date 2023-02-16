@@ -5,6 +5,7 @@ body {
 .Header{
   background-color: #171718;
   text-align: center;
+  padding-left: 16vh;
 }
 h1{
   color:white; 
@@ -76,6 +77,7 @@ padding: 0px;
   position:relative;
   width: 100%;
   padding-top: 8vh;;
+  padding-bottom: 15vh;
 } 
 .bloqueHabilidadesEstilo{
   background-color: #171718;
@@ -87,4 +89,40 @@ padding: 0px;
 }
 .bloqueHabilidadesEstilo h3{
   color:white;
+}
+
+.Services h2{
+  color: #C6A664;
+  font-weight: 100;
+}
+.Contacto{
+  background-color: #171718;
+  text-align: center;
+  padding-top: 10vh;
+  padding-bottom: 15vh;
+}
+.Contacto h4{
+ color:#C6A664;
+}
+.bloque_redes{
+  display: inline-block;
+  background-color:#1f2124;
+  margin: 5vh;
+  width: 35vh;
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+  height: 6vh;
+  color:white;
+  margin-left: 1vh;
+}
+.bloque_redes p{
+  color:#C6A664;
+  display:inline-block;
+  margin-left: 4vh;
+}
+.bloque_redes a{
+  color:#C6A664;
+  display:inline-block;
+  font-style: none;
+  text-decoration: none;
 }
