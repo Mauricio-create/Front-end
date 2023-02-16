@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.Header{
+  background-color: #17202A;
+}
+.Header h1{
+  color:white; 
+}
+.Header p{
+  color: grey;
+}
+.Header hr{
+  color:sandybrown;
+  width: 10px;
+  padding:0px;
+}
