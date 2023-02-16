@@ -42,6 +42,7 @@ function Contacto (){
         contact = "Mauricio Castelazo"
         />
         <hr style = {{borderColor:"#C6A664", marginTop:"10vh", border:"2px solid"}}/>
+        
    
     </div>
     );
