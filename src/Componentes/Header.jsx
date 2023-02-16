@@ -13,7 +13,7 @@ function Header(){
                 <hr></hr>
                 <p>Instagram | Linkedin</p>
                 <p>Behance | Dribble</p>
-                <button>CONTACT ME</button>
+                <button>CONTACTO</button>
             </Col>
 
             <Col lg = {3} md = {4} sm = {12} className="headerMiddle">
@@ -21,7 +21,7 @@ function Header(){
             </Col>
 
            <Col lg = {2} md = {4}  sm = {12}className="headerRight">
-                <h5 style= {{color:"#C6A664", marginBottom:"10px"}}>INTRODUCTION</h5>
+                <h5 style= {{color:"#C6A664", marginBottom:"10px"}}>INTRODUCCIÓN</h5>
                 <h1>Estudiante <br></br>de la <br></br>Universidad Panamericana</h1>
                 <p>
                     Mi nombre es Mauricio González Castelazo. Tengo 22 años,<br></br> y actualmente estoy cursando 
@@ -29,7 +29,7 @@ function Header(){
                     Sistemas Inteligentes. 
                 </p>
                 <button style={{color:"#C6A664;", border: "0px solid"}}>
-                    Learn more
+                    Ver más
                 </button>
 
             </Col>
