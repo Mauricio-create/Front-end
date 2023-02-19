@@ -8,8 +8,7 @@ function Header(){
     return (
         <Row className = 'Header'>
             <Col lg = {2} md = {4} sm = {12} className="headerLeft">
-                <h1>Mauricio<br></br>González</h1>
-                <h1 style={{color:"#C6A664"}}>.</h1>
+                <h1>Mauricio<br></br>González<h1 style={{color:"#C6A664"}}>.</h1></h1>
                 <hr></hr>
                 <p>Instagram | Linkedin</p>
                 <p>Behance | Dribble</p>
