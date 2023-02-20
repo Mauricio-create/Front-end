@@ -24,29 +24,11 @@ function Services(){
                 icon={content.iconBloque}
                 title = {content.titleBloque}
                 info = {content.infoBloque}
+                tiempo = {content.tiempoBloque}
+                descripcion = {content.descripcionBloque}
             />
         ))}
         <br />
-        <Row>
-            <Col style = {{marginLeft:"10vh"}}>
-                <h2>3 +</h2>
-                <p>Años de expriencia</p>
-            </Col>
-            <Col>
-                <h2>1</h2>
-                <p>Año de Experiencia</p>
-            </Col>
-            <Col>
-                <h2>1</h2>
-                <p>Año de Experiencia</p>
-            </Col>
-            <Col style = {{marginRight:"10vh"}}>
-                <h2>Certificaciones</h2>
-                <p>Cambrige Ket y FCE. Pearson Internation Certificate</p>
-            </Col>
-            
-        </Row>
-        
 
     </div>
     );

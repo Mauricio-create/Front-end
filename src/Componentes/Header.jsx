@@ -7,7 +7,7 @@ import Col from 'react-bootstrap/Col';
 function Header(){
     return (
         <Row className = 'Header'>
-            <Col lg = {2} md = {4} sm = {12} className="headerLeft">
+            <Col lg = {2} md = {2} sm = {12} className="headerLeft">
                 <h1>Mauricio<br></br>González<h1 style={{color:"#C6A664"}}>.</h1></h1>
                 <hr></hr>
                 <p>Instagram | Linkedin</p>
@@ -15,11 +15,11 @@ function Header(){
                 <button>CONTACTO</button>
             </Col>
 
-            <Col lg = {3} md = {4} sm = {12} className="headerMiddle">
+            <Col lg = {3} md = {2} sm = {12} className="headerMiddle">
                 <img src = "https://w0.peakpx.com/wallpaper/650/789/HD-wallpaper-developer-walpaper-black-coding-developer-developing-programmer-programming-simple-technology-white.jpg"></img>
             </Col>
 
-           <Col lg = {2} md = {4}  sm = {12}className="headerRight">
+           <Col lg = {2} md = {2}  sm = {12}className="headerRight">
                 <h5 style= {{color:"#C6A664", marginBottom:"10px"}}>INTRODUCCIÓN</h5>
                 <h1>Estudiante <br></br>de la <br></br>Universidad Panamericana</h1>
                 <p>

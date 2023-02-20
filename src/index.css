@@ -7,7 +7,7 @@ body {
   background-color: #171718;
   text-align: center;
   padding-left: 16vh;
-  width:200vh;
+  width:100vw;
 }
 h1{
   color:white; 
@@ -79,9 +79,9 @@ padding: 0px;
   background-color: #1f2124;
   text-align: center;
   position:relative;
-  width: 100%;
   padding-top: 8vh;;
   padding-bottom: 15vh;
+  width:100vw;
 } 
 .bloqueHabilidadesEstilo{
   background-color: #171718;
@@ -104,6 +104,7 @@ padding: 0px;
   text-align: center;
   padding-top: 10vh;
   padding-bottom: 15vh;
+  width:100vw;
 }
 .Contacto h4{
  color:#C6A664;
