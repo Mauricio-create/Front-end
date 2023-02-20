@@ -26,7 +26,7 @@ function Header(){
                 <p>
                     Mi nombre es Mauricio González Castelazo. Tengo 22 años,<br></br> y actualmente estoy cursando 
                     el sexto semestre de la <br></br>carrea de Ingeniería en Tecnologìas de la Información <br></br>y 
-                    Sistemas Inteligentes. 
+                    Sistemas Inteligentes. Estoy bien marrano para el js. 
                 </p>
                 <button style={{color:"#C6A664;", border: "0px solid"}}>
                     Ver más
