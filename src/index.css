@@ -6,7 +6,8 @@ body {
 .Header{
   background-color: #171718;
   text-align: center;
-  padding-left: 16vh;
+  padding-left: 14vh;
+  justify-content: "space-between";
 }
 h1{
   color:white; 
@@ -42,7 +43,7 @@ width: 20vh;
 margin-top: 4vh;
 }
 .Header button:hover{
-  color:#C6A664;
+  color: gray;
   border: 1px solid;
   background-color: #171718;
 }
@@ -60,18 +61,22 @@ margin-top: 4vh;
 }
 
 .headerLeft{
-text-align: left;
-display: grid;
-margin: 0px;
-padding: 0px;
+  margin: 0px;
+  padding: 0px;
+  text-align: left;
+  display: grid;
+  justify-content: space-between;
+  align-items: center;
 }
 
 
 .headerRight{
-  text-align: left;
-  display: grid;
   margin: 0px;
   padding: 0px;
+  text-align: left;
+  display: grid;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .Services{
@@ -130,3 +135,15 @@ padding: 0px;
   font-style: none;
   text-decoration: none;
 }
+.textoOculto{
+
+  display:none;
+  transition: all 0.5s ease-in-out; 
+}
+.textoDesplegado{
+
+  display:contents;
+  
+}
+
+
