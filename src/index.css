@@ -52,6 +52,8 @@ margin-top: 4vh;
   margin: 0px;
   padding: 0px; 
   display: grid;
+  align-items: center;
+  text-align: center;
 }
 .headerMiddle img{
   width: 300px;
@@ -143,7 +145,7 @@ margin-top: 4vh;
 .textoDesplegado{
 
   display:contents;
-  
+  transition: all 0.5s ease-in-out; 
 }
 
 
