@@ -28,7 +28,7 @@ function Contacto (){
         <Redes 
         key = {1}
         icon = {<FaEnvelopeSquare />}
-        contact = "mauglezcast@gmail.com"
+        contact = {<a href="mauglezcast@gmail.com">mauglezcast@gmail.com</a>}
         />
         <br />
         <Redes 
@@ -39,7 +39,7 @@ function Contacto (){
              <Redes 
         key = {1}
         icon = {<FaFacebookF />}
-        contact = "Mauricio Castelazo"
+        contact = {<a href="hhttps://es-la.facebook.com/public/Mauricio-Castelazo">Mauricio Gonzalez</a>}
         />
         <hr style = {{borderColor:"#C6A664", marginTop:"10vh", border:"2px solid"}}/>
         
